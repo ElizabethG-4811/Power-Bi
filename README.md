@@ -17,3 +17,4 @@ The goal for this project was to analyze the search trends and data patterns in 
 ## Files Included:
 - `DC Trends HH vs TNF.pbix` - This is my final Power BI Dashboard file.
 - `DMV_Trend_Battle.xlsx` - This is the Source used to convert into a Excel data file used for the analysis.
+ 
